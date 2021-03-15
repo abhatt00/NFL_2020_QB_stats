@@ -1,0 +1,2 @@
+# NFL_2020_QB_stats
+Tableau dashboard created to showcase a combination of traditional and advanced statistics for NFL Quarterbacks during the 2020 regular season. Due to the upswing in passing attempts in the NFL over the last decade, the game favors offensive production more than ever. That has allowed receptions for all pass-catchers to exponentially increase. The following dashboard created will visualize the statistics for the quarterbacks who attempted at least double-digit passes.

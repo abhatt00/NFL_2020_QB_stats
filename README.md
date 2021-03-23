@@ -35,33 +35,33 @@ Tableau
 ### Passing Leaders by Category
 
 ### Passing Yards
-<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/Query%20results/1_passing_yards_leader.jpg">
+<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2020_QB_stats/blob/main/Query%20results/1_passing_yards_leader.jpg">
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/1_passing_yards_leader_tableau.jpg">
 
 ### Completion %
-<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/Query%20results/2_cmp_pct_leader.jpg">
+<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2020_QB_stats/blob/main/Query%20results/2_cmp_pct_leader.jpg">
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/2_cmp_pct_leader_tableau.jpg">
 
 ### Touchdown Passes and Touchdown %
-<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/Query%20results/3_passing_td_leader.jpg">
+<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2020_QB_stats/blob/main/Query%20results/3_passing_td_leader.jpg">
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/3_passing_td_leader_tableau.jpg">
 
-<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/Query%20results/4_td_pct_leader.jpg">
+<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2020_QB_stats/blob/main/Query%20results/4_td_pct_leader.jpg">
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/4_td_pct_leader_tableau.jpg">
 
 ### Yards per Pass Attempt
-<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/Query%20results/5_yards_per_att_leader.jpg">
+<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2020_QB_stats/blob/main/Query%20results/5_yards_per_att_leader.jpg">
 
 ### Passing Yards per Game
-<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/Query%20results/6_yards_per_game_leader.jpg">
+<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2020_QB_stats/blob/main/Query%20results/6_yards_per_game_leader.jpg">
 
 ### Most and Fewest Interceptions Thrown
-<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/Query%20results/7_interceptions_most.jpg">
+<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2020_QB_stats/blob/main/Query%20results/7_interceptions_most.jpg">
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/7_interceptions_most_tableau.jpg">
-<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/Query%20results/8_interceptions_fewest.jpg">
+<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2020_QB_stats/blob/main/Query%20results/8_interceptions_fewest.jpg">
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/8_interceptions_fewest_tableau.jpg">
 
 ### Interception %
-<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/Query%20results/9_int_pct.jpg">
-<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/Query%20results/10_int_pct_ascending.jpg">
+<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2020_QB_stats/blob/main/Query%20results/9_int_pct.jpg">
+<img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2020_QB_stats/blob/main/Query%20results/10_int_pct_ascending.jpg">
 

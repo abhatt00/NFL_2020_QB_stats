@@ -40,3 +40,4 @@ Create Table "NFL2020_pass_stats" as
 		On ("A"."player"="B"."player");
 
 Select * From "NFL2020_pass_stats";
+

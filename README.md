@@ -27,7 +27,7 @@ Tableau
 ### Creating a Tableau Dashboard
 
 * Import the newly exported Excel files into Tableau to create visualizations.
-* 2019 Passing statistics.
+* 2020 Passing statistics.
     * Volume and efficiency statistics visualized.
 
 ## Rankings in SQL and Tableau Visualizations

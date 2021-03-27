@@ -35,14 +35,32 @@ Tableau
 ### Passing Leaders by Category
 
 ### Passing Yards
+1. Deshaun Watson
+2. Patrick Mahomes
+3. Tom Brady
+4. Matt Ryan
+5. Josh Allen
+
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2020_QB_stats/blob/main/Query%20results/1_passing_yards_leader.jpg">
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/1_passing_yards_leader_tableau.jpg">
 
 ### Completion %
+1. Aaron Rodgers
+2. Drew Brees
+3. Deshaun Watson
+4. Josh Allen
+5. Teddy Bridgewater
+
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2020_QB_stats/blob/main/Query%20results/2_cmp_pct_leader.jpg">
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/2_cmp_pct_leader_tableau.jpg">
 
 ### Touchdown Passes and Touchdown %
+1. Aaron Rodgers
+2. Tom Brady
+3. Russell Wilson
+4. Patrick Mahomes
+5. Josh Allen
+
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2020_QB_stats/blob/main/Query%20results/3_passing_td_leader.jpg">
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/3_passing_td_leader_tableau.jpg">
 
@@ -50,18 +68,57 @@ Tableau
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/4_td_pct_leader_tableau.jpg">
 
 ### Yards per Pass Attempt
+1. Deshaun Watson
+2. Kirk Cousins
+3. Aaron Rodgers
+4. Patrick Mahomes
+5. Derek Carr
+
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2020_QB_stats/blob/main/Query%20results/5_yards_per_att_leader.jpg">
 
 ### Passing Yards per Game
+1. Patrick Mahomes
+2. Deshaun Watson
+3. Tom Brady
+4. Justin Herbert
+5. Matt Ryan
+
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2020_QB_stats/blob/main/Query%20results/6_yards_per_game_leader.jpg">
 
 ### Most and Fewest Interceptions Thrown
+1. Carson Wentz
+2. Drew Lock
+3. Russell Wilson
+4. Kirk Cousins
+5. Jared Goff
+
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2020_QB_stats/blob/main/Query%20results/7_interceptions_most.jpg">
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/7_interceptions_most_tableau.jpg">
+
+1. Aaron Rodgers
+2. Joe Burrow
+3. Tua Tagovailoa
+4. Patrick Mahomes
+5. Drew Brees
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2020_QB_stats/blob/main/Query%20results/8_interceptions_fewest.jpg">
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2019_Tableau_analysis/blob/master/images/8_interceptions_fewest_tableau.jpg">
 
 ### Interception %
+Ascending
+1. Carson Wentz
+2. Drew Lock
+3. Sam Darnold
+4. Cam Newton
+5. Micthell Trubisky
+
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2020_QB_stats/blob/main/Query%20results/9_int_pct.jpg">
+
+Descending
+1. Patrick Mahomes
+2. Aaron Rodgers
+3. Joe Burrow
+4. Deshaun Watson
+5. Drew Brees
+
 <img width=“500” alt=“” src="https://github.com/abhatt00/NFL_2020_QB_stats/blob/main/Query%20results/10_int_pct_ascending.jpg">
 
